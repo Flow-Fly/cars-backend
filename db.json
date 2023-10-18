@@ -1,0 +1,10 @@
+{
+	"cars": [
+		{
+			"brand": "Rolls Royce",
+			"model": "Phantom",
+			"speed": 250,
+			"colors": ["Black", "Red", "White", "Lime Green", "Pink"]
+		}
+	]
+}
